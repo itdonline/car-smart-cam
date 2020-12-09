@@ -7,6 +7,7 @@ An advanced driver-assistance system on Jetson Nano embedded computer with four 
 - <https://aicurious.io/posts/adas-jetson-nano-intro-and-hardware/>.
 - <https://aicurious.io/posts/adas-jetson-nano-software/>.
 - https://aicurious.io/posts/adas-jetson-nano-deep-neural-networks/.
+- video <https://www.youtube.com/watch?v=0ykWIfkZxmY>.
 
 ## I. DEVELOPMENT ENVIRONMENT AND BUILD
 
